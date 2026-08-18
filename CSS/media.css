@@ -27,6 +27,11 @@
         align-items: center;
     }
 
+    /*--------------- About Section------------------- */
+    .about-section {
+        margin-top: 0px;
+    }
+
     /*---------- Content left------- */
 
     .content-left {
