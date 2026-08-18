@@ -106,8 +106,11 @@
 
     /*--------------- About Section------------------- */
     .about-section {
+        height: auto;
         margin-top: 0 !important;
-        padding-top: 0px;
+        margin-bottom: 0 !important;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
     }
 
     .about-img {
@@ -117,10 +120,12 @@
     /*============ Projects Section Responsive=============== */
     .project-section {
         margin-top: 0 !important;
+        padding-top: 0 !important;
     }
 
     .project-section .heading {
-        padding-top: 0px;
+        padding-top: 0 !important;
+        margin-top: 0 !important;
     }
 
     .project-section .card {
@@ -277,17 +282,22 @@
 
     /*--------- About SEction ---------------- */
     .about-section {
+        height: auto;
         margin-top: 0 !important;
-        padding-top: 0px;
+        margin-bottom: 0 !important;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
     }
 
     /*============ Project Section=============== */
     .project-section {
         margin-top: 0 !important;
+        padding-top: 0 !important;
     }
 
     .project-section .heading {
-        padding-top: 0px;
+        padding-top: 0 !important;
+        margin-top: 0 !important;
     }
 
     .project-section .card {
