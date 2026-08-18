@@ -106,7 +106,8 @@
 
     /*--------------- About Section------------------- */
     .about-section {
-        margin-top: 0px;
+        margin-top: 0 !important;
+        padding-top: 0px;
     }
 
     .about-img {
@@ -114,8 +115,12 @@
     }
 
     /*============ Projects Section Responsive=============== */
+    .project-section {
+        margin-top: 0 !important;
+    }
+
     .project-section .heading {
-        padding-top: 20px;
+        padding-top: 0px;
     }
 
     .project-section .card {
@@ -270,10 +275,19 @@
         line-height: 1.5;
     }
 
+    /*--------- About SEction ---------------- */
+    .about-section {
+        margin-top: 0 !important;
+        padding-top: 0px;
+    }
+
     /*============ Project Section=============== */
+    .project-section {
+        margin-top: 0 !important;
+    }
 
     .project-section .heading {
-        padding-top: 25px;
+        padding-top: 0px;
     }
 
     .project-section .card {
