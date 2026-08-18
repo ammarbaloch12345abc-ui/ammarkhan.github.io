@@ -27,11 +27,6 @@
         align-items: center;
     }
 
-    /*--------------- About Section------------------- */
-    .about-section {
-        margin-top: 0px;
-    }
-
     /*---------- Content left------- */
 
     .content-left {
@@ -107,6 +102,15 @@
         text-align: center;
         font-size: 14px;
         line-height: 1.5;
+    }
+
+    /*--------------- About Section------------------- */
+    .about-section {
+        margin-top: 0px;
+    }
+
+    .about-img {
+        margin-top: -90px;
     }
 
     /*============ Projects Section Responsive=============== */
