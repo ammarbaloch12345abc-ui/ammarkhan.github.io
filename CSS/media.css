@@ -106,26 +106,36 @@
 
     /*--------------- About Section------------------- */
     .about-section {
-        height: auto;
-        margin-top: 0 !important;
-        margin-bottom: 0 !important;
-        padding-top: 0 !important;
-        padding-bottom: 0 !important;
+        height: auto !important;
+        min-height: 0 !important;
+        margin: 0 !important;
+        padding: 40px 0 0 0 !important;
+        display: block !important;
+    }
+
+    .about-section-content {
+        margin: 0 auto !important;
+        padding: 0 !important;
+    }
+
+    .content-row {
+        margin: 0 !important;
     }
 
     .about-img {
-        margin-top: -90px;
+        margin: 0 auto !important;
     }
 
-    /*============ Projects Section Responsive=============== */
+    /*--------------- Projects Section ----------*/
     .project-section {
-        margin-top: 0 !important;
-        padding-top: 0 !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
     }
 
     .project-section .heading {
-        padding-top: 0 !important;
-        margin-top: 0 !important;
+        margin: 0 !important;
+        padding-top: 40px !important;
     }
 
     .project-section .card {
@@ -280,24 +290,38 @@
         line-height: 1.5;
     }
 
-    /*--------- About SEction ---------------- */
+    /* About Section */
     .about-section {
-        height: auto;
-        margin-top: 0 !important;
-        margin-bottom: 0 !important;
-        padding-top: 0 !important;
-        padding-bottom: 0 !important;
+        height: auto !important;
+        min-height: 0 !important;
+        margin: 0 !important;
+        padding: 40px 0 0 0 !important;
+        display: block !important;
     }
 
-    /*============ Project Section=============== */
+    .about-section-content {
+        margin: 0 auto !important;
+        padding: 0 !important;
+    }
+
+    .content-row {
+        margin: 0 !important;
+    }
+
+    .about-img {
+        margin: 0 auto !important;
+    }
+
+    /* ------------------Projects Section -------------*/
     .project-section {
-        margin-top: 0 !important;
-        padding-top: 0 !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
     }
 
     .project-section .heading {
-        padding-top: 0 !important;
-        margin-top: 0 !important;
+        margin: 0 !important;
+        padding-top: 40px !important;
     }
 
     .project-section .card {
